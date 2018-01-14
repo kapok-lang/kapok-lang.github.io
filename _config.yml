@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://kapok-lang.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Kapok
+subtitle: A dynamic, functional, general-purpose programming language
+author: Kapok Team
 simple_search: https://www.google.com/search
 description:
 
