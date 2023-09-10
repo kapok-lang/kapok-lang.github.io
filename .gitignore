@@ -1,0 +1,2 @@
+# ignore automatically generated file for local hugo build
+.hugo_build.lock
