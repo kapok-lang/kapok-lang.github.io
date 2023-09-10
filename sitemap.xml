@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://kapok-lang.org/</loc>
+    <lastmod>2018-01-15T21:00:06+08:00</lastmod>
+  </url><url>
+    <loc>http://kapok-lang.org/posts/kapok-v0_1_0-release/</loc>
+    <lastmod>2018-01-15T21:00:06+08:00</lastmod>
+  </url><url>
+    <loc>http://kapok-lang.org/posts/</loc>
+    <lastmod>2018-01-15T21:00:06+08:00</lastmod>
+  </url><url>
+    <loc>http://kapok-lang.org/categories/</loc>
+  </url><url>
+    <loc>http://kapok-lang.org/tags/</loc>
+  </url>
+</urlset>

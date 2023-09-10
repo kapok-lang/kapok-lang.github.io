@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kapok</title>
+    <link>http://kapok-lang.org/posts/</link>
+    <description>Recent content in Posts on Kapok</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jan 2018 21:00:06 +0800</lastBuildDate><atom:link href="http://kapok-lang.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kapok v0.1.0 Released</title>
+      <link>http://kapok-lang.org/posts/kapok-v0_1_0-release/</link>
+      <pubDate>Mon, 15 Jan 2018 21:00:06 +0800</pubDate>
+      
+      <guid>http://kapok-lang.org/posts/kapok-v0_1_0-release/</guid>
+      <description>Kapok version 0.1.0 is released with:
+A modern Lisp syntax and the support to various built-in data structures A protocol implementation which is compatible to Elixir A minor standard library for useful macros, operations on sequence, file, processes, etc. The main frame of the language itself is mostly defined but the implementation is open to changes. There are plans in the future to improve these terms: compilation interface, library, and dev tools.</description>
+    </item>
+    
+  </channel>
+</rss>
